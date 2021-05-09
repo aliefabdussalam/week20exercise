@@ -55,7 +55,16 @@
     text-decoration: none;
     font-weight: 600;
   }
- 
+  .secondary-menu .menu li input{
+    background: #EFEEEE;
+    border-radius: 30px;
+    width: 150px;
+    height: 24px;
+    left: 969px;
+    top: 49px;
+    padding-left: 10px;
+    border-style: none;
+  }
   
   .pict_profile{
       border-radius: 75px;

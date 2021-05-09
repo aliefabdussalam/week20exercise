@@ -26,11 +26,17 @@
     border-radius: 100px;
   }
   p{
-    margin-top: 100px;
+    margin-top: 80px;
     font-family: 'Poppins', sans-serif;
     font-style: normal;
+    text-align: center;
+    padding: 10px;
+    font-weight: 900;
+  }
+  h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: #6A4029;
     
   }
-  @font-face {
-    font-family: Poppins;
-    src: "./Poppins-Bold.ttf";}
